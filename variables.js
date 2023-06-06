@@ -5,3 +5,7 @@ var pumpkinKing = "Jack Skellington"
 var meaningOfLife = 42
 var lost = 4815162342
 var scouterSays = 9001
+
+var amIRich = false
+var marioWearsRed = true
+var appleIsExpensive = true
